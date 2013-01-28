@@ -1,0 +1,5 @@
+# ignore tmporary file
+*.swap
+
+#ignore backup file
+*~
